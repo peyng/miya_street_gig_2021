@@ -140,20 +140,19 @@ a.p:hover span {
 <a href="20210522034.JPG" data-lightbox="abc"><img src="20210522034.JPG" alt="サンプル画像" width="600" /></a>
 <a href="20210522035.JPG" data-lightbox="abc"><img src="20210522035.JPG" alt="サンプル画像" width="600" /></a>
 <a href="20210522036.JPG" data-lightbox="abc"><img src="20210522036.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522037.JPG" data-lightbox="abc"><img src="20210522037.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522038.JPG" data-lightbox="abc"><img src="20210522038.JPG" alt="サンプル画像" width="600" /></a>
+
 
 
 <br><br><br>
 <h1>パンフレット</h1>
 <a href="20210522_038.JPG" data-lightbox="abc"><img src="20210522038.JPG" alt="サンプル画像" width="600" /></a>
 <br>
-<h1>River Jewelriesは初日の３番手でした ！</h1>
+<h1>River Jewelriesの出場は初日の３番手＠オリオンスクエアでした ！</h1>
 <a href="20210522_037.JPG" data-lightbox="abc"><img src="20210522037.JPG" alt="サンプル画像" width="600" /></a>
 
 
 <br>
-<h1>管楽器系ソロなど</h1>
+<h1>本番動画</h1>
 
 
 
@@ -164,7 +163,7 @@ a.p:hover span {
 <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
 
-<p align="right"><marquee direction="left" scrollamount="10" width="80%">背景はMIYA JAZZ INN パンフレット ~~~ (^^)/</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">背景はMIYA STREET GIG パンフレット ~~~ (^^)/</marquee></p>
 
 
 
