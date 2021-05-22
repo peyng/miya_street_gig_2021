@@ -3,7 +3,7 @@
  <head>
  <meta charset="UTF-8">
  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
- <title>miya jazz inn 2020</title>
+ <title>miya street gig 2021</title>
 
 <style type="text/css">
  p {
@@ -94,7 +94,7 @@ a.p:hover span {
 </head>
 
 
-<body onload="alert('MIYA JAZZ INN 2020の写真と動画集です')" onunload="alert('来年もまた見せてね〜(^o^)/')">
+<body onload="alert('MIYA STREER GIG 2021の写真と動画集です')" onunload="alert('来年もまた見せてね〜(^o^)/')">
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
@@ -103,43 +103,46 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="left">!!! 2021年5月22日(土)_River Jewelries(半澤さん所属のバンド名)@宇都宮オリオンスクエア !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
+<h1>本番動画</h1>
+	
+	
+<br>
 <h1>メンバー紹介</h1>
-<a href="20210522001.JPG" data-lightbox="abc"><img src="20210522001.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522002.JPG" data-lightbox="abc"><img src="20210522002.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522003.JPG" data-lightbox="abc"><img src="20210522003.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522004.JPG" data-lightbox="abc"><img src="20210522004.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522005.JPG" data-lightbox="abc"><img src="20210522005.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522006.JPG" data-lightbox="abc"><img src="20210522006.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522007.JPG" data-lightbox="abc"><img src="20210522007.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522008.JPG" data-lightbox="abc"><img src="20210522008.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522009.JPG" data-lightbox="abc"><img src="20210522009.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522010.JPG" data-lightbox="abc"><img src="20210522010.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522011.JPG" data-lightbox="abc"><img src="20210522011.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522012.JPG" data-lightbox="abc"><img src="20210522012.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522013.JPG" data-lightbox="abc"><img src="20210522013.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522014.JPG" data-lightbox="abc"><img src="20210522014.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522015.JPG" data-lightbox="abc"><img src="20210522015.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522016.JPG" data-lightbox="abc"><img src="20210522016.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522017.JPG" data-lightbox="abc"><img src="20210522017.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522018.JPG" data-lightbox="abc"><img src="20210522018.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522019.JPG" data-lightbox="abc"><img src="20210522019.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522020.JPG" data-lightbox="abc"><img src="20210522020.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522021.JPG" data-lightbox="abc"><img src="20210522021.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522022.JPG" data-lightbox="abc"><img src="20210522022.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522023.JPG" data-lightbox="abc"><img src="20210522023.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522024.JPG" data-lightbox="abc"><img src="20210522024.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522025.JPG" data-lightbox="abc"><img src="20210522025.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522026.JPG" data-lightbox="abc"><img src="20210522026.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522027.JPG" data-lightbox="abc"><img src="20210522027.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522028.JPG" data-lightbox="abc"><img src="20210522028.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522029.JPG" data-lightbox="abc"><img src="20210522029.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522030.JPG" data-lightbox="abc"><img src="20210522030.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522031.JPG" data-lightbox="abc"><img src="20210522031.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522032.JPG" data-lightbox="abc"><img src="20210522032.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522033.JPG" data-lightbox="abc"><img src="20210522033.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522034.JPG" data-lightbox="abc"><img src="20210522034.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522035.JPG" data-lightbox="abc"><img src="20210522035.JPG" alt="サンプル画像" width="600" /></a>
-<a href="20210522036.JPG" data-lightbox="abc"><img src="20210522036.JPG" alt="サンプル画像" width="600" /></a>
+<a href="20210522001.JPG" data-lightbox="abc"><img src="20210522001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522002.JPG" data-lightbox="abc"><img src="20210522002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522003.JPG" data-lightbox="abc"><img src="20210522003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522004.JPG" data-lightbox="abc"><img src="20210522004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522005.JPG" data-lightbox="abc"><img src="20210522005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522006.JPG" data-lightbox="abc"><img src="20210522006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522007.JPG" data-lightbox="abc"><img src="20210522007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522008.JPG" data-lightbox="abc"><img src="20210522008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522009.JPG" data-lightbox="abc"><img src="20210522009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522010.JPG" data-lightbox="abc"><img src="20210522010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522011.JPG" data-lightbox="abc"><img src="20210522011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522012.JPG" data-lightbox="abc"><img src="20210522012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522013.JPG" data-lightbox="abc"><img src="20210522013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522014.JPG" data-lightbox="abc"><img src="20210522014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522015.JPG" data-lightbox="abc"><img src="20210522015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522016.JPG" data-lightbox="abc"><img src="20210522016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522017.JPG" data-lightbox="abc"><img src="20210522017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522018.JPG" data-lightbox="abc"><img src="20210522018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522019.JPG" data-lightbox="abc"><img src="20210522019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522020.JPG" data-lightbox="abc"><img src="20210522020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522021.JPG" data-lightbox="abc"><img src="20210522021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522022.JPG" data-lightbox="abc"><img src="20210522022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522023.JPG" data-lightbox="abc"><img src="20210522023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522025.JPG" data-lightbox="abc"><img src="20210522025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522026.JPG" data-lightbox="abc"><img src="20210522026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522027.JPG" data-lightbox="abc"><img src="20210522027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522028.JPG" data-lightbox="abc"><img src="20210522028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522029.JPG" data-lightbox="abc"><img src="20210522029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522030.JPG" data-lightbox="abc"><img src="20210522030.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522031.JPG" data-lightbox="abc"><img src="20210522031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522032.JPG" data-lightbox="abc"><img src="20210522032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522033.JPG" data-lightbox="abc"><img src="20210522033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522034.JPG" data-lightbox="abc"><img src="20210522034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522035.JPG" data-lightbox="abc"><img src="20210522035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210522036.JPG" data-lightbox="abc"><img src="20210522036.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
@@ -151,8 +154,7 @@ a.p:hover span {
 <a href="20210522_037.JPG" data-lightbox="abc"><img src="20210522037.JPG" alt="サンプル画像" width="600" /></a>
 
 
-<br>
-<h1>本番動画</h1>
+
 
 
 
@@ -177,4 +179,4 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
-	<span class="grey">Copyright 2020/11/1 S.Hada</span>
+	<span class="grey">Copyright 2021/5/21 S.Hada</span>
