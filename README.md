@@ -111,7 +111,7 @@ a.p:hover span {
 <iframe width="900" height="506" src="https://www.youtube.com/embed/YtfEWf1t2e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <h1>エンディング</h1>
-	
+<iframe width="900" height="506" src="https://www.youtube.com/embed/Xm0hGIKeVpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <br>
 <h1>メンバー紹介</h1>
