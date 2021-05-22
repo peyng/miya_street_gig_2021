@@ -103,18 +103,18 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="left">!!! 2021年5月22日(土)_River Jewelries(半澤さん所属のバンド名)@宇都宮オリオンスクエア !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
-<h1>本番動画</h1>
-	<h1>１曲めは、途中からになっちゃいました</h1>
+	<h1><span class="blue">本番動画</span></h1>
+	<h1><span class="blue">１曲めは、途中からになっちゃいました</span></h1>
 <iframe width="900" height="506" src="https://www.youtube.com/embed/LJOoqM8U7tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
-<h1>喝采、オリジナルバージョン</h1>
+	<h1><span class="blue">八代亜紀「喝采」、オリジナルバージョン</span></h1>
 <iframe width="900" height="506" src="https://www.youtube.com/embed/YtfEWf1t2e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
-<h1>エンディング</h1>
+	<h1><span class="blue">エンディング</span></h1>
 <iframe width="900" height="506" src="https://www.youtube.com/embed/Xm0hGIKeVpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <br>
-<h1>メンバー紹介</h1>
+	<h1><span class="blue">メンバー紹介</span></h1>
 <a href="20210522001.JPG" data-lightbox="abc"><img src="20210522001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210522002.JPG" data-lightbox="abc"><img src="20210522002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210522003.JPG" data-lightbox="abc"><img src="20210522003.JPG" alt="サンプル画像" width="900" /></a>
@@ -154,10 +154,10 @@ a.p:hover span {
 
 
 <br><br><br>
-<h1>パンフレット</h1>
+	<h1><span class="blue">パンフレット</span></h1>
 <a href="20210522_038.JPG" data-lightbox="abc"><img src="20210522038.JPG" alt="サンプル画像" width="900" /></a>
 <br>
-<h1>River Jewelriesの出場は初日の３番手＠オリオンスクエアでした ！</h1>
+	<h1><span class="blue">River Jewelriesの出場は初日の３番手＠オリオンスクエアでした ！</span></h1>
 <a href="20210522_037.JPG" data-lightbox="abc"><img src="20210522037.JPG" alt="サンプル画像" width="900" /></a>
 
 
