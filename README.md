@@ -108,7 +108,7 @@ a.p:hover span {
 	<h1><span class="blue">１曲めは、途中からになっちゃいました</span></h1>
 <iframe width="900" height="506" src="https://www.youtube.com/embed/LJOoqM8U7tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
-	<h1><span class="blue">八代亜紀「喝采」、オリジナルバージョン</span></h1>
+	<h1><span class="blue">ちあきなおみ「喝采」、オリジナルバージョン</span></h1>
 <iframe width="900" height="506" src="https://www.youtube.com/embed/YtfEWf1t2e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 	<h1><span class="blue">エンディング</span></h1>
