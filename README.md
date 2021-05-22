@@ -148,10 +148,10 @@ a.p:hover span {
 
 <br><br><br>
 <h1>パンフレット</h1>
-<a href="20210522_038.JPG" data-lightbox="abc"><img src="20210522038.JPG" alt="サンプル画像" width="600" /></a>
+<a href="20210522_038.JPG" data-lightbox="abc"><img src="20210522038.JPG" alt="サンプル画像" width="900" /></a>
 <br>
 <h1>River Jewelriesの出場は初日の３番手＠オリオンスクエアでした ！</h1>
-<a href="20210522_037.JPG" data-lightbox="abc"><img src="20210522037.JPG" alt="サンプル画像" width="600" /></a>
+<a href="20210522_037.JPG" data-lightbox="abc"><img src="20210522037.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
