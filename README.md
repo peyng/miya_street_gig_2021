@@ -105,7 +105,7 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
 
-<div style="background-color:#EEFFFF;">
+<div style="background-color:#CCFFFF;">
 	
 	<h1><span class="blue">本番動画</span></h1>
 	<h1><span class="blue">１曲めは、途中からになっちゃいました</span></h1>
