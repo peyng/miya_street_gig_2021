@@ -104,9 +104,8 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="left">!!! 2021年5月22日(土)_River Jewelries(半澤さん所属のバンド名)@宇都宮オリオンスクエア !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
-	<!--
-<div style="background-color: rgba(192, 192, 192)";>-->
-<div style="background-color:#EDF7FF;">
+
+<div style="background-color:#EEFFFF;">
 	
 	<h1><span class="blue">本番動画</span></h1>
 	<h1><span class="blue">１曲めは、途中からになっちゃいました</span></h1>
