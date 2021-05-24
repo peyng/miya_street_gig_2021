@@ -105,7 +105,8 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
 	
-<div style="background-color: rgba(192,192,192,0.8)";>
+<div style="background-color: rgba(192, 192, 192, 0.8)";>
+	
 	<h1><span class="blue">本番動画</span></h1>
 	<h1><span class="blue">１曲めは、途中からになっちゃいました</span></h1>
 <iframe width="900" height="506" src="https://www.youtube.com/embed/LJOoqM8U7tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -153,7 +154,7 @@ a.p:hover span {
 <a href="20210522034.JPG" data-lightbox="abc"><img src="20210522034.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210522035.JPG" data-lightbox="abc"><img src="20210522035.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210522036.JPG" data-lightbox="abc"><img src="20210522036.JPG" alt="サンプル画像" width="900" /></a>
-	</div>
+
 
 
 <br><br><br>
@@ -164,7 +165,7 @@ a.p:hover span {
 <a href="20210522_037.JPG" data-lightbox="abc"><img src="20210522037.JPG" alt="サンプル画像" width="900" /></a>
 
 
-
+	</div>
 
 
 
