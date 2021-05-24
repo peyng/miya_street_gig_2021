@@ -105,20 +105,27 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
 
-<div style="background-color:#CCFFFF;">
+<div style="background-color:#EEFFFF;">
 	
 	<h1><span class="blue">本番動画</span></h1>
 	<h1><span class="blue">１曲めは、途中からになっちゃいました</span></h1>
+	</div>
 <iframe width="600" height="338" src="https://www.youtube.com/embed/LJOoqM8U7tU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+<div style="background-color:#EEFFFF;">	
 	<h1><span class="blue">ちあきなおみ「喝采」、オリジナルバージョン</span></h1>
+	</div>
 <iframe width="600" height="338" src="https://www.youtube.com/embed/YtfEWf1t2e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+<div style="background-color:#EEFFFF;">
 	<h1><span class="blue">エンディング</span></h1>
+	</div>
 <iframe width="600" height="338" src="https://www.youtube.com/embed/Xm0hGIKeVpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <br>
+<div style="background-color:#EEFFFF;">
 	<h1><span class="blue">メンバー紹介</span></h1>
+	</div>
 <a href="20210522001.JPG" data-lightbox="abc"><img src="20210522001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210522002.JPG" data-lightbox="abc"><img src="20210522002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210522003.JPG" data-lightbox="abc"><img src="20210522003.JPG" alt="サンプル画像" width="900" /></a>
@@ -158,14 +165,18 @@ a.p:hover span {
 
 
 <br><br><br>
+<div style="background-color:#EEFFFF;">
 	<h1><span class="blue">パンフレット</span></h1>
+	</div>
 <a href="20210522_038.JPG" data-lightbox="abc"><img src="20210522038.JPG" alt="サンプル画像" width="900" /></a>
 <br>
+<div style="background-color:#EEFFFF;">
 	<h1><span class="blue">River Jewelriesの出場は初日の３番手＠オリオンスクエアでした ！</span></h1>
+	</div>
 <a href="20210522_037.JPG" data-lightbox="abc"><img src="20210522037.JPG" alt="サンプル画像" width="900" /></a>
 
 
-	</div>
+	
 
 
 
