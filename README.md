@@ -94,7 +94,7 @@ a.p:hover span {
 </head>
 
 
-<body onload="alert('MIYA STREER GIG 2021の写真と動画集です')" onunload="alert('来年もまた見せてね〜(^o^)/')">
+<body onload="alert('MIYA STREER GIG 2021の写真と動画集です<br>来年もまた見せてね〜(^o^)/')">
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
